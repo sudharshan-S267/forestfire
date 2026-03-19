@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/cron/check-fires/route": "/api/cron/check-fires",
+  "/api/fires/route": "/api/fires",
+  "/api/geocode/reverse/route": "/api/geocode/reverse",
+  "/api/geocode/search/route": "/api/geocode/search",
+  "/api/subscribe/route": "/api/subscribe",
+  "/api/unsubscribe/route": "/api/unsubscribe",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}
